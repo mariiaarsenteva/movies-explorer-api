@@ -9,7 +9,7 @@
 
 # Поддомен для тестов:
 
-api.mariia.movies.nomoredomainsrocks.ru
+https://api.mariia.movies.nomoredomainsrocks.ru
 
 ## 
 
