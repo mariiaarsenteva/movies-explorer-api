@@ -10,7 +10,7 @@ const { requestLogger, errorLogger } = require('./middlewares/logger');
 require('dotenv').config();
 // const router = express.Router();
 
-const { PORT = 3000, MONGODB_URL = 'mongodb://127.0.0.1:27017/beatfilmsdb' } = process.env; // переменные прописаны в .env
+const { PORT = 3001, MONGODB_URL = 'mongodb://127.0.0.1:27017/beatfilmsdb' } = process.env; // переменные прописаны в .env
 
 const app = express();
 
